@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0  Date: Wed 31 Dec 2014 09:15:51 PM PST
+#
+$CMP SST39SF010
+D 128k x 8 Flash ROM
+K 128k flash rom
+F sst39sfxxx/sst39sf0x0.pdf
+$ENDCMP
+#
+$CMP SST39SF020
+D 256k x 8 Flash ROM
+K 256k flash rom
+F sst39sfxxx/sst39sf0x0.pdf
+$ENDCMP
+#
+$CMP SST39SF040
+D 512k x 8 Flash ROM
+K 512k flash rom
+F sst39sfxxx/sst39sf0x0.pdf
+$ENDCMP
+#
+#End Doc Library

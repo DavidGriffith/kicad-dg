@@ -1,0 +1,15 @@
+KiCAD Libraries
+Copyright (c) 2015 David Griffith <dave@661.org>
+
+This library includes a bunch of symbols and footprints ("modules")
+for the EDA software KiCAD.  You are generally free to do with them as 
+you wish according to the Artistic License 2.0.  See LICENSE for more 
+information.  Copyrights to data sheets are left with their creators.
+
+Contents:
+
+dg-sst39sfxxx
+1 Mbit (128 x 8), 2 Mbit (256 x 8), 4 Mbit (512 x 8) flash memory chips 
+from MicroChip.
+
+
